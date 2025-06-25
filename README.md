@@ -9,7 +9,7 @@ This project uses a Lending Club dataset containing borrower features and loan o
 
  
 📥 **You can download it from [OneDrive](https://1drv.ms/f/c/a27ce39f4c705a7c/Es4NK0HEoLtJn1RoZsPwoF4BKpI3uwMEHaFvKg-qb9TqmA).** 
-This dataset is initally extracted from [Kaggle](https://www.kaggle.com)
+This dataset is initally extracted from Kaggle.
 
 ---
 ## 🧠 Project Overview
@@ -24,4 +24,12 @@ This dataset is initally extracted from [Kaggle](https://www.kaggle.com)
   - ✅ **96% accuracy**
   - ✅ **99% precision** for repaid loans
   - ✅ **89% recall** for defaulters
+
+ ---
+ ## 🧑‍💻 Developed By:
+
+**Priyanshu Sinha**  
+*M.Tech | IIT (BHU) Varanasi*  
+📧 [sinhapriyanshu200@gmail.com](mailto:sinhapriyanshu200@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/sinhapriyanshu200/)
 
