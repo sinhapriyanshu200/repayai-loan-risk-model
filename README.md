@@ -32,6 +32,15 @@ This project demonstrates a complete machine learning workflow, from data cleani
   - ✅ **96% accuracy**
   - ✅ **99% precision** for repaid loans
   - ✅ **89% recall** for defaulters
+ 
+ ---
+
+## 💼 Use Cases
+
+- Credit scoring and risk assessment
+- Loan application filtering
+- Financial product targeting
+- Risk-adjusted interest rate modeling
 
  ---
  ## 🧑‍💻 Developed By:
