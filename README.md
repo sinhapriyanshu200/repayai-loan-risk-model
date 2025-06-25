@@ -1,2 +1,6 @@
-# repayai-loan-risk-model
-Deep learning-based binary classifier to predict loan repayment outcomes using real-world lending data, with 96% accuracy and strong recall for defaults.
+# 💸 **RepayAI – Neural Network Based Loan Risk Model**
+
+> A deep learning model to predict loan repayment risk using real-world lending data, built to support data-driven credit decisions.
+
+---
+
