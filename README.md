@@ -7,8 +7,9 @@
 
 This project uses a Lending Club dataset containing borrower features and loan outcomes.
 
-**⚠️ Due to file size constraints, the full dataset is not included in this repository.**  
-📥 You can download it from [OneDrive](https://1drv.ms/f/c/a27ce39f4c705a7c/Es4NK0HEoLtJn1RoZsPwoF4BKpI3uwMEHaFvKg-qb9TqmA). This dataset is initally extracted from [Kaggle](https://www.kaggle.com)
+ 
+📥 **You can download it from [OneDrive](https://1drv.ms/f/c/a27ce39f4c705a7c/Es4NK0HEoLtJn1RoZsPwoF4BKpI3uwMEHaFvKg-qb9TqmA).** 
+This dataset is initally extracted from [Kaggle](https://www.kaggle.com)
 
 ---
 ## 🧠 Project Overview
