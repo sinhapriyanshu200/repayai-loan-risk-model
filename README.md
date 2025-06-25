@@ -19,6 +19,7 @@ This dataset is initally extracted from Kaggle.
   - Python
   - Pandas
   - Matplotlib & Seaborn
+  - SckitLearn
   - TensorFlow / Keras
  
 **RepayAI** is a deep learning-based binary classification model designed to predict whether a borrower will repay a loan or default, using real-world data from Lending Club.
